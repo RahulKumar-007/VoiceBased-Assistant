@@ -18,9 +18,13 @@ This is a Python program that functions as a virtual assistant, capable of perfo
 To run the Voice-Based Assistant program, you need to have the following:
 
 - Python 3 installed on your machine.
+- portaudio module on your machine
 - Required Python packages: pyttsx3, speech_recognition, wikipedia.
 
 You can install the required packages using the following command:
+```shell
+sudo apt install portaudio19-dev
+```
 
 ```shell
 pip install pyttsx3 speechrecognition wikipedia portaudio
