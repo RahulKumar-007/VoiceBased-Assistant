@@ -27,7 +27,7 @@ sudo apt install portaudio19-dev
 ```
 
 ```shell
-pip install pyttsx3 speechrecognition wikipedia portaudio
+pip install pyttsx3 speechrecognition wikipedia 
 ```
 
 ## Usage
@@ -49,6 +49,7 @@ pip install pyttsx3 speechrecognition wikipedia portaudio
 - Voice Selection: You can customize the voice used by the assistant by modifying the `setProperty` function call in the code. For example, to use a different voice, change `voices[0].id` to `voices[1].id` or any other available voice index.
 - Music Directory: If you want to play music, make sure to update the `music_dir` variable in the code to point to the directory where your music files are located.
 - Chrome Browser Path: If you want to open Google Chrome, ensure that the `path` variable in the code points to the correct path where the Chrome browser executable is installed.
+- you can also do 
 
 ## Contributing
 
@@ -60,6 +61,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- This program was developed as a learning exercise and is inspired by various virtual assistant projects.
+- This program was developed as a learning exercise and is inspired by various virtual assistant projects on youtube and blogs over internet.
 
 Feel free to modify and customize the README file based on your preferences and additional information you want to provide.
