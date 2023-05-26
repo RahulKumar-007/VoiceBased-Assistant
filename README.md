@@ -23,7 +23,7 @@ To run the Voice-Based Assistant program, you need to have the following:
 You can install the required packages using the following command:
 
 ```shell
-pip install pyttsx3 speechrecognition wikipedia
+pip install pyttsx3 speechrecognition wikipedia portaudio
 ```
 
 ## Usage
