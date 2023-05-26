@@ -24,7 +24,7 @@ To run the Voice-Based Assistant program, you need to have the following:
 You can install the required packages using the following command:
 
 ```shell
-sudo apt install portaudio19-dev
+sudo apt install portaudio19-dev //for linux or Macos 
 ```
 
 ```shell
