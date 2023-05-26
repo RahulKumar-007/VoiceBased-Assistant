@@ -22,7 +22,7 @@ To run the Voice-Based Assistant program, you need to have the following:
 - Required Python packages: pyttsx3, speech_recognition, wikipedia.
 
 You can install the required packages using the following command:
-this is required for linux or MacOS 
+
 ```shell
 sudo apt install portaudio19-dev
 ```
