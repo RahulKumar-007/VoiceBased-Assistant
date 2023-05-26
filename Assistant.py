@@ -43,7 +43,7 @@ def takeCommand():
     return query.lower()
 
 
-if _name_ == '_main_':
+if _name_ == '__main__':
     wishMe()
     while True:
         query = takeCommand()
